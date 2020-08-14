@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/james-kan-website/precache-manifest.d642f67133dc96b0910ed0a3d205d9f5.js"
+  "/kan-site/precache-manifest.76649a249cf501f6c32641a30af7b0be.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/james-kan-website/index.html", {
+workbox.routing.registerNavigationRoute("/kan-site/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
