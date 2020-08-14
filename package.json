@@ -2,7 +2,7 @@
   "name": "landing-create-react-app-example",
   "version": "0.1.0",
   "private": true,
-  "homepage": "./",
+  "homepage": "https://jameskanca.github.io/kan-site",
   "dependencies": {
     "@ant-design/compatible": "^1.0.2",
     "@ant-design/icons": "^4.2.2",
@@ -18,6 +18,8 @@
   },
   "scripts": {
     "start": "react-app-rewired start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-app-rewired build",
     "test": "react-app-rewired test",
     "eject": "react-app-rewired eject"
@@ -34,6 +36,7 @@
   "devDependencies": {
     "babel-plugin-import": "^1.11.0",
     "customize-cra": "^0.2.12",
+    "gh-pages": "^3.1.0",
     "less": "^3.9.0",
     "less-loader": "^4.1.0",
     "react-app-rewired": "^2.1.0"

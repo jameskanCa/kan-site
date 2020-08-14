@@ -1,5 +1,5 @@
 import React from "react";
-import { LinkedinFilled, MailFilled } from "@ant-design/icons";
+import { LinkedinFilled, MailFilled, GithubFilled } from "@ant-design/icons";
 import { Tooltip, Button } from "antd";
 
 export const Banner00DataSource = {
@@ -525,7 +525,7 @@ export const Content90DataSource = {
                         Opencare’s Canadian clients by 30% through the desktop
                         integration. Created a C.I./C.D. build pipeline for the
                         desktop application using Jenkins to encourage the team
-                        to deploy more regularly, and reduce the time that
+                        to deploy more regularly and reduce the time that
                         engineers spent creating/reviewing builds.
                       </p>
                       <p>
@@ -662,16 +662,15 @@ export const Content90DataSource = {
             children: (
               <span>
                 <p>
-                  The studied aimed to investigate the evidence base behind
-                  using a virtual reality in a pediatric rehabilitation form for
+                  The study aimed to investigate the evidence base behind using
+                  virtual reality in a pediatric rehabilitation form for
                   patients on the autistic disorder spectrum. My role is a
-                  full-stack programmer for research team, tasked with
-                  developing front and back end of an evaluation software for
+                  full-stack programmer for the research team, tasked with
+                  developing front and back end of evaluation software for
                   research analytics. Maintain and debug Xbox Kinect software
                   used in the study in addition to carrying out experimental
-                  trials with autistic patients. *Developed a deployed website
-                  using HTML &amp; CSS for the purposes of participant
-                  recruitment.
+                  trials with autistic patients. Developed a deployed website
+                  using HTML & CSS for participant recruitment.
                 </p>
               </span>
             ),
@@ -742,9 +741,9 @@ export const Content90DataSource = {
                   secure database and assisting with the preparation and
                   distribution of financial documents. Developed and maintained
                   software on personal time to simplify the digitization process
-                  of patient records that is now utilized by the team. The
+                  of patient records that are now utilized by the team. The
                   software developed is now an integral part of the position for
-                  future students who take on the position. GUI were created
+                  future students who take on the position. GUI was created
                   after feedback from colleagues and focus on providing a
                   simple, clean, and modern design.
                 </p>
@@ -926,7 +925,12 @@ export const Feature51DataSource = {
         name: "content",
         children: (
           <span>
-            <p>Made with Passion</p>
+            <p>Made with Passion! Check out other projects in my Github!</p>
+            <Tooltip title="jameskanCa">
+              <a href="https://github.com/jameskanCa?tab=repositories">
+                <GithubFilled style={{ fontSize: 32, marginTop: 20 }} />
+              </a>
+            </Tooltip>
           </span>
         ),
       },
@@ -962,25 +966,14 @@ export const Feature51DataSource = {
                     <span>
                       <h3>Summary</h3>
                       <p>
-                        This project aims to help make YouTube users make better
-                        decisions on video choices while surfing YouTube. It's
-                        goal is to reduce distraction and make YouTube a better
-                        tool for education. When users surf YouTube videos, if a
-                        video may be distracting, a popup will appear to notify
-                        users they may be distracted. A client WebApp is also
-                        available to view metrics regarding watch history.
-                        Clicking on project images can enlarge to view example
-                        screenshots of the project. I created a Chrome extension
-                        to collect video metadata and a popup modal to notify
-                        users whether a video is distracting towards studying.
-                        The chrome extension interacts with the RESTful API
-                        server I implemented using Node.js to store and retrieve
-                        user data from the MongoDB database, enforcing a
-                        client-server architecture. This data can then be
-                        retrieved from the Single-Page application in React that
-                        performs REST calls to API to retrieve data for
-                        client-side calculation and rendering of watch history
-                        metrics in charts.
+                        Stylisr aims to connect fashion noobies to fashion
+                        experts. It allows people to post fashion requests and
+                        for people to respond with fashion suggestions. This
+                        concept can help change the way people shop in an online
+                        market that is ever so more important during COVID. As a
+                        full-stack developer and also the project manager for
+                        this project, I was involved in front and backend as was
+                        making architectural design decisions.
                       </p>
                       <br />
                       <h3>Tech</h3>
@@ -1030,8 +1023,8 @@ export const Feature51DataSource = {
                   <h3>Description</h3>
                   <p>
                     As part of a project course (CPSC 319) at UBC, ICBC
-                    (Insurance Corperation of British Columbia) requested a
-                    product that allows for their employees to "rent" desks as
+                    (Insurance Corporation of British Columbia) requested a
+                    product that allows their employees to "reserve" desks as
                     they transition to a work from home friendly office policy.
                     As a project manager, I was in charge of 6 developers and it
                     was my role to ensure clients needs are met, the team's
@@ -1089,7 +1082,7 @@ export const Feature51DataSource = {
                   <h3>Summary</h3>
                   <p>
                     This project aims to help make YouTube users make better
-                    decisions on video choices while surfing YouTube. It's goal
+                    decisions on video choices while surfing YouTube. Its goal
                     is to reduce distraction and make YouTube a better tool for
                     education. When users surf YouTube videos, if a video may be
                     distracting, a popup will appear to notify users they may be
@@ -1159,9 +1152,9 @@ export const Feature51DataSource = {
                   apps. The habit app also tracks a user's usage on the app to
                   determine if the specified usage duration was met and marks
                   the habit as complete or incomplete based on the result. The
-                  project was first chance to explore Flutter and mobile
-                  development. I implemented patterns such as BloC pattern to
-                  help better design the application.
+                  project was the first chance to explore Flutter and mobile
+                  development. I implemented patterns such as the BloC pattern
+                  to help better design the application.
                 </p>
                 <br />
                 <h3>Tech</h3>
@@ -1332,7 +1325,7 @@ export const Feature51DataSource = {
                   <p>
                     VR centered game where users play as a wizard defending
                     their tower. Enemies are eliminated by being thrown in the
-                    the air and let to fall down. Utilizing Oculus Rift's SDK
+                    air and let to fall down. Utilizing Oculus Rift's SDK
                     unity's OpenVR support to develop the game. Coordinated with
                     a game designer, 2D artist, and sound artist to work on the
                     game.
@@ -1461,16 +1454,16 @@ export const Feature50DataSource = {
                     <span>
                       <h3>Topic: Mental Health</h3>
                       <p>
-                        By far the most unique experience, formed a team on the
+                        By far the most unique experience formed a team on the
                         day of and facilitated the brainstorming of our project
                         by bringing out each individual's expertise in different
                         areas such as business, mental health, technical ...etc.
-                        Focused on expanding problem solving skills by narrowing
+                        Focused on expanding problem-solving skills by narrowing
                         down and validating the problem in question. Learned and
-                        utilized prototyping tools to prepare for presentation.
-                        Our solution was to bridge the gap between counselors
-                        and students who are too afraid too reach out. We do
-                        this by having students enter their daily emotions
+                        utilized prototyping tools to prepare for the
+                        presentation. Our solution was to bridge the gap between
+                        counselors and students who are too afraid to reach out.
+                        We do this by having students enter their daily emotions
                         through the Snapchat API bit emoji to engage with the
                         youth and through data warehousing, to detect deviations
                         in emotions.
@@ -1633,7 +1626,7 @@ export const Feature50DataSource = {
                   <p>
                     The team worked on an android app that matches people based
                     on selected mood for the day. The concept focuses on
-                    ensuring people are able to connect and support each other.
+                    ensuring people can connect and support each other.
                   </p>
                   <br />
                   <h3>Role</h3>
@@ -1742,7 +1735,7 @@ export const Content91DataSource = {
                   Provide student input on co-curricular activities proposed by
                   C.S. department. Brainstormed activities aimed at helping to
                   improve C.S. student's career development such as 'From the
-                  Future You', a panel of graduates giving career advices.
+                  Future You', a panel of graduates giving career advice.
                 </p>
               </span>
             ),
@@ -1943,7 +1936,7 @@ export const Content91DataSource = {
               <span>
                 <span>
                   <p>
-                    Mentor first year students transition into U.B.C.. Provided
+                    Mentor first year students transition into UBC. Provided
                     academic advices and ensuring mental well being of students
                     to ensure successful transition into university.
                   </p>
