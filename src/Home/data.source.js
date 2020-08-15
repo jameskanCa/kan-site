@@ -7,19 +7,19 @@ export const Banner00DataSource = {
   textWrapper: { className: "banner0-text-wrapper kdqzgjzkem7-editor_css" },
   title: {
     className: "banner0-title",
-    children: "https://i.imgur.com/NUOFshs.png?1",
+    children: "https://i.imgur.com/AoCItcO.png",
   },
   content: {
     className: "banner0-content kdtqv4fxdjl-editor_css",
     children: (
       <span>
-        <p>"Never rest until you've given your 100%"</p>
+        <p>"Never settle until you've given your 100%"</p>
       </span>
     ),
   },
   button: {
     className: "banner0-button kdtqv7xap9o-editor_css",
-    children: "Learn More",
+    children: "Learn More About James",
     type: "default",
   },
 };
@@ -46,8 +46,9 @@ export const Teams00DataSource = {
               children: (
                 <span>
                   <p>
-                    Graduating 2021 April, seeking full-time position as a
-                    Software Developer
+                    Graduating May 2021, seeking a full-time position as a
+                    Software Developer. Based in Vancouver but looking to
+                    relocate if the opportunity arises. Contact Me!
                   </p>
                 </span>
               ),
@@ -67,9 +68,11 @@ export const Teams00DataSource = {
               children: (
                 <span>
                   <p>
-                    Fourth year CS &amp; Microbiology and Immunology student who
-                    is passionate about changing people's lives for the better
-                    one line of code at a time.
+                    Fourth-year Computer Science &amp; Microbiology and
+                    Immunology student at the University of British Columbia
+                    (UBC) with a 4.0 GPA for Computer Science courses. I am
+                    passionate about changing people's lives for the better one
+                    line of code at a time.
                   </p>
                 </span>
               ),
@@ -319,7 +322,7 @@ export const Content130DataSource = {
         name: "content",
         children: (
           <span>
-            <p>Reach out to me on LinkedIn or Email! Happy to chat!&nbsp;</p>
+            <p>Reach out to me on LinkedIn or Email. Happy to chat!&nbsp;</p>
           </span>
         ),
         className: "title-content kdtqumdgj47-editor_css",
@@ -442,12 +445,22 @@ export const Content90DataSource = {
                   <span>
                     <span>
                       <p>
-                        Migrated 100k + Hootsuite Twitter users to use webhook
-                        infrastructure in Scala for automated message
-                        assignments. Uncovered unreliability in existing logging
-                        infrastructure and fixed existing services to use a
-                        non-UDP logging infrastructure. Worked with Kafka to
-                        prepare and emit data for analytics.
+                        <ul>
+                          <li>
+                            Migrated 100k+ Hootsuite Twitter users to use
+                            webhook infrastructure in Scala for automated
+                            message assignments.
+                          </li>
+                          <li>
+                            Uncovered unreliability in existing logging
+                            infrastructure and fixed existing services to use a
+                            non-UDP logging infrastructure.
+                          </li>
+                          <li>
+                            Worked with Kafka to prepare and emit data for
+                            analytics.
+                          </li>
+                        </ul>
                       </p>
                       <p>
                         <br />
@@ -517,16 +530,26 @@ export const Content90DataSource = {
                   <span>
                     <span>
                       <p>
-                        Implemented and deployed a cloud-based online-booking
-                        data-scraper API with Node.js and JavaScript for a
-                        platform that Opencare’s competitors cannot support.
-                        Built a C# integration for a dental software 3 weeks
-                        earlier than scheduled and increased eligibility of
-                        Opencare’s Canadian clients by 30% through the desktop
-                        integration. Created a C.I./C.D. build pipeline for the
-                        desktop application using Jenkins to encourage the team
-                        to deploy more regularly and reduce the time that
-                        engineers spent creating/reviewing builds.
+                        <ul>
+                          <li>
+                            Implemented and deployed a cloud-based
+                            online-booking data-scraper API with Node.js and
+                            JavaScript for a platform that Opencare’s
+                            competitors cannot support.
+                          </li>
+                          <li>
+                            Built a C# integration for a dental software 3 weeks
+                            earlier than scheduled and increased eligibility of
+                            Opencare’s Canadian clients by 30% through the
+                            desktop integration.
+                          </li>
+                          <li>
+                            Created a C.I./C.D. build pipeline for the desktop
+                            application using Jenkins to encourage the team to
+                            deploy more regularly and reduce the time that
+                            engineers spent creating/reviewing builds.
+                          </li>
+                        </ul>
                       </p>
                       <p>
                         <br />
@@ -593,15 +616,23 @@ export const Content90DataSource = {
             children: (
               <span>
                 <p>
-                  Built custom React chart components using D3 and SVG with
-                  TypeScript to visualize client data in front-end and delivered
-                  a successful product demo with BMW. Deployed critical
-                  application monitoring infrastructure for Kubernetes clusters
-                  using Datadog which helped to identify major application
-                  performance bottlenecks. Implemented back-end user access
-                  privilege features, working in the micro-service
-                  architecture-based web app using Scala, Kafka, Kubernetes, and
-                  GraphQL.
+                  <ul>
+                    <li>
+                      Built custom React chart components using D3 and SVG with
+                      TypeScript to visualize client data in front-end and
+                      delivered a successful product demo with BMW.
+                    </li>
+                    <li>
+                      Deployed critical application monitoring infrastructure
+                      for Kubernetes clusters using Datadog which helped to
+                      identify major application performance bottlenecks.
+                    </li>
+                    <li>
+                      Implemented back-end user access privilege features,
+                      working in the micro-service architecture-based web app
+                      using Scala, Kafka, Kubernetes, and GraphQL.
+                    </li>
+                  </ul>
                 </p>
               </span>
             ),
@@ -662,15 +693,27 @@ export const Content90DataSource = {
             children: (
               <span>
                 <p>
-                  The study aimed to investigate the evidence base behind using
-                  virtual reality in a pediatric rehabilitation form for
-                  patients on the autistic disorder spectrum. My role is a
-                  full-stack programmer for the research team, tasked with
-                  developing front and back end of evaluation software for
-                  research analytics. Maintain and debug Xbox Kinect software
-                  used in the study in addition to carrying out experimental
-                  trials with autistic patients. Developed a deployed website
-                  using HTML & CSS for participant recruitment.
+                  <ul>
+                    <li>
+                      The study aimed to investigate the evidence base behind
+                      using virtual reality in a pediatric rehabilitation form
+                      for patients on the autistic disorder spectrum.
+                    </li>
+                    <li>
+                      My role is a full-stack programmer for the research team,
+                      tasked with developing front and back end of evaluation
+                      software for research analytics.
+                    </li>
+                    <li>
+                      Maintained and debuged Xbox Kinect software used in the
+                      study in addition to carrying out experimental trials with
+                      autistic patients.
+                    </li>
+                    <li>
+                      Developed a deployed website using HTML & CSS for
+                      participant recruitment.
+                    </li>
+                  </ul>
                 </p>
               </span>
             ),
@@ -737,15 +780,26 @@ export const Content90DataSource = {
             children: (
               <span>
                 <p>
-                  Responsible for digitizing sensitive patient records into
-                  secure database and assisting with the preparation and
-                  distribution of financial documents. Developed and maintained
-                  software on personal time to simplify the digitization process
-                  of patient records that are now utilized by the team. The
-                  software developed is now an integral part of the position for
-                  future students who take on the position. GUI was created
-                  after feedback from colleagues and focus on providing a
-                  simple, clean, and modern design.
+                  <ul>
+                    <li>
+                      Responsible for digitizing sensitive patient records into
+                      secure database and assisting with the preparation and
+                      distribution of financial documents.
+                    </li>
+                    <li>
+                      Developed and maintained software on personal time to
+                      simplify the digitization process of patient records that
+                      are now utilized by the team.
+                    </li>
+                    <li>
+                      The software developed is now an integral part of the
+                      position for future students who take on the position.
+                    </li>
+                    <li>
+                      GUI was created after feedback from colleagues and focus
+                      on providing a simple, clean, and modern design.
+                    </li>
+                  </ul>
                 </p>
               </span>
             ),
@@ -964,7 +1018,7 @@ export const Feature51DataSource = {
                 <span>
                   <span>
                     <span>
-                      <h3>Summary</h3>
+                      <h3>Description</h3>
                       <p>
                         Stylisr aims to connect fashion noobies to fashion
                         experts. It allows people to post fashion requests and
@@ -1033,7 +1087,7 @@ export const Feature51DataSource = {
                     contributing to the code base participating in code reviews.
                   </p>
                   <br />
-                  <h3>Tech Stack</h3>
+                  <h3>Tech</h3>
                   <p>
                     Java with Spring Framework, Javascript with React, MySQL
                   </p>
@@ -1079,7 +1133,7 @@ export const Feature51DataSource = {
             children: (
               <span>
                 <span>
-                  <h3>Summary</h3>
+                  <h3>Description</h3>
                   <p>
                     This project aims to help make YouTube users make better
                     decisions on video choices while surfing YouTube. Its goal
@@ -1198,7 +1252,7 @@ export const Feature51DataSource = {
                 <span>
                   <span>
                     <span>
-                      <h3>Summary</h3>
+                      <h3>Description</h3>
                       <p>
                         This project takes Google assistant devices and allow
                         users to use their voice to control the browser through
@@ -1321,7 +1375,7 @@ export const Feature51DataSource = {
             children: (
               <span>
                 <span>
-                  <h3>Summary</h3>
+                  <h3>Description</h3>
                   <p>
                     VR centered game where users play as a wizard defending
                     their tower. Enemies are eliminated by being thrown in the
@@ -1381,9 +1435,8 @@ export const Content10DataSource = {
           <span>
             <p>
               A goal of mine has always been to find a platform to share my
-              experiences as I grow as a developer and as a leader. Check out my
-              medium posts! It's a bit empty as I get started but stay tuned!
-              Quality content coming your way!&nbsp;
+              experiences as I grow as a developer and as a leader. Stay tuned
+              for my blog, quality content coming your way!&nbsp;
             </p>
             <Button style={{ margin: 15 }} disabled>
               Under Construction

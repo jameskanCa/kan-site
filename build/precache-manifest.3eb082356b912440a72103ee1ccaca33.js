@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "84724b9846d256f8e6af",
-    "url": "/kan-site/static/css/main.6445dc0b.chunk.css"
+    "revision": "a3bd8214f86c4c3b9965",
+    "url": "/kan-site/static/css/main.aa44b6d3.chunk.css"
   },
   {
-    "revision": "84724b9846d256f8e6af",
-    "url": "/kan-site/static/js/main.84724b98.chunk.js"
+    "revision": "a3bd8214f86c4c3b9965",
+    "url": "/kan-site/static/js/main.a3bd8214.chunk.js"
   },
   {
     "revision": "5688e60273b6b4d88cb7",
     "url": "/kan-site/static/js/runtime~main.5688e602.js"
   },
   {
-    "revision": "d05d09b72eaf332a58e9",
+    "revision": "cd6956ac7d7d85aaf26a",
     "url": "/kan-site/static/css/2.26328c19.chunk.css"
   },
   {
-    "revision": "d05d09b72eaf332a58e9",
-    "url": "/kan-site/static/js/2.d05d09b7.chunk.js"
+    "revision": "cd6956ac7d7d85aaf26a",
+    "url": "/kan-site/static/js/2.cd6956ac.chunk.js"
   },
   {
     "revision": "f67ae8f5615e68c545e6d390fa696444",
@@ -36,7 +36,7 @@ self.__precacheManifest = [
     "url": "/kan-site/static/media/lumohacks.ffe990e3.jpg"
   },
   {
-    "revision": "e5498087ecee4f861a27ef32e6a86ffd",
+    "revision": "9af44bb9fab03f8121514853929bb705",
     "url": "/kan-site/index.html"
   }
 ];
