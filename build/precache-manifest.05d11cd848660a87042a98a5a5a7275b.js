@@ -36,7 +36,7 @@ self.__precacheManifest = [
     "url": "/kan-site/static/media/lumohacks.ffe990e3.jpg"
   },
   {
-    "revision": "e9ef42748ef3b461a495e7457d45d928",
+    "revision": "83b66091f228ddb93dae32219e210dbc",
     "url": "/kan-site/index.html"
   }
 ];
