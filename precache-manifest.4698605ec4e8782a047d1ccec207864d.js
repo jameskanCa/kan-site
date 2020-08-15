@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "46eb63e26769b7baaea5",
+    "revision": "cf166cccb2a42959b722",
     "url": "/kan-site/static/css/main.93a18854.chunk.css"
   },
   {
-    "revision": "46eb63e26769b7baaea5",
-    "url": "/kan-site/static/js/main.46eb63e2.chunk.js"
+    "revision": "cf166cccb2a42959b722",
+    "url": "/kan-site/static/js/main.cf166ccc.chunk.js"
   },
   {
     "revision": "5688e60273b6b4d88cb7",
@@ -36,7 +36,7 @@ self.__precacheManifest = [
     "url": "/kan-site/static/media/lumohacks.ffe990e3.jpg"
   },
   {
-    "revision": "068b867899a7a9ff0319d476d154bbc7",
+    "revision": "e538905c5bda1f25db061a24f04f699d",
     "url": "/kan-site/index.html"
   }
 ];
