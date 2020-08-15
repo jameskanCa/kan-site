@@ -518,7 +518,7 @@ export const Content90DataSource = {
             className: "block-title",
             children: (
               <span>
-                <p>Explore Your Limitations</p>
+                <p>Explore My Limitations</p>
               </span>
             ),
           },
