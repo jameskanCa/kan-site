@@ -830,7 +830,7 @@ export const Content120DataSource = {
               <span>
                 <span>
                   <span>
-                    <p>Some Languages &amp; Frameworks &amp; Libraries</p>
+                    <p>Languages &amp; Frameworks &amp; Libraries</p>
                   </span>
                 </span>
               </span>
