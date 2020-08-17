@@ -1217,8 +1217,7 @@ export const Feature51DataSource = {
             className: "content7-img",
             md: 10,
             xs: 24,
-            children:
-              "https://zos.alipayobjects.com/rmsportal/xBrUaDROgtFBRRL.png",
+            children: `${require("../images/flutter.png")}`,
           },
         },
       },
