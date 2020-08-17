@@ -1,19 +1,20 @@
 {
-  "main.css": "/kan-site/static/css/main.caf319b2.chunk.css",
-  "main.js": "/kan-site/static/js/main.6ec4a369.chunk.js",
-  "main.js.map": "/kan-site/static/js/main.6ec4a369.chunk.js.map",
+  "main.css": "/kan-site/static/css/main.79839876.chunk.css",
+  "main.js": "/kan-site/static/js/main.6efda9ee.chunk.js",
+  "main.js.map": "/kan-site/static/js/main.6efda9ee.chunk.js.map",
   "runtime~main.js": "/kan-site/static/js/runtime~main.5688e602.js",
   "runtime~main.js.map": "/kan-site/static/js/runtime~main.5688e602.js.map",
   "static/css/2.26328c19.chunk.css": "/kan-site/static/css/2.26328c19.chunk.css",
   "static/js/2.cd6956ac.chunk.js": "/kan-site/static/js/2.cd6956ac.chunk.js",
   "static/js/2.cd6956ac.chunk.js.map": "/kan-site/static/js/2.cd6956ac.chunk.js.map",
   "index.html": "/kan-site/index.html",
-  "precache-manifest.303e0a41fb344c2294fc3711bd168a2c.js": "/kan-site/precache-manifest.303e0a41fb344c2294fc3711bd168a2c.js",
+  "precache-manifest.6d16a0cb4d9586eb4361e728b4d6c980.js": "/kan-site/precache-manifest.6d16a0cb4d9586eb4361e728b4d6c980.js",
   "service-worker.js": "/kan-site/service-worker.js",
   "static/css/2.26328c19.chunk.css.map": "/kan-site/static/css/2.26328c19.chunk.css.map",
-  "static/css/main.caf319b2.chunk.css.map": "/kan-site/static/css/main.caf319b2.chunk.css.map",
+  "static/css/main.79839876.chunk.css.map": "/kan-site/static/css/main.79839876.chunk.css.map",
   "static/media/lumohacks.jpg": "/kan-site/static/media/lumohacks.ffe990e3.jpg",
   "static/media/lumohacks2.jpg": "/kan-site/static/media/lumohacks2.785577d1.jpg",
   "static/media/mechathon.jpg": "/kan-site/static/media/mechathon.13384616.jpg",
-  "static/media/protohack.jpg": "/kan-site/static/media/protohack.f67ae8f5.jpg"
+  "static/media/protohack.jpg": "/kan-site/static/media/protohack.f67ae8f5.jpg",
+  "static/media/antMotionStyle.less": "/kan-site/static/media/t.00a7efe3.gif"
 }
