@@ -47,8 +47,8 @@ export const Teams00DataSource = {
                 <span>
                   <p>
                     Graduating May 2021, seeking a full-time position as a
-                    Software Developer. Based in Vancouver but looking to
-                    relocate if the opportunity arises. Contact Me!
+                    Software Developer. Based in Vancouver but will relocate if
+                    the opportunity arises. Contact Me!
                   </p>
                 </span>
               ),
