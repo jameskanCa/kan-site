@@ -7,7 +7,7 @@ export const Banner00DataSource = {
   textWrapper: { className: "banner0-text-wrapper kdqzgjzkem7-editor_css" },
   title: {
     className: "banner0-title",
-    children: "https://i.imgur.com/AoCItcO.png",
+    children: "",
   },
   content: {
     className: "banner0-content kdtqv4fxdjl-editor_css",
@@ -771,7 +771,7 @@ export const Content90DataSource = {
             className: "block-title",
             children: (
               <span>
-                <p>Automation&nbsp;</p>
+                <p>The Power of Automation&nbsp;</p>
               </span>
             ),
           },
@@ -1044,8 +1044,7 @@ export const Feature51DataSource = {
           },
           img: {
             className: "content7-img",
-            children:
-              "https://zos.alipayobjects.com/rmsportal/xBrUaDROgtFBRRL.png",
+            children: "https://i.imgur.com/XPjeE0r.png",
             md: 10,
             xs: 24,
           },
@@ -1105,8 +1104,7 @@ export const Feature51DataSource = {
             className: "content7-img",
             md: 10,
             xs: 24,
-            children:
-              "https://zos.alipayobjects.com/rmsportal/xBrUaDROgtFBRRL.png",
+            children: `${require("../images/icbseat.PNG")}`,
           },
         },
       },
@@ -1168,8 +1166,7 @@ export const Feature51DataSource = {
             className: "content7-img",
             md: 10,
             xs: 24,
-            children:
-              "https://zos.alipayobjects.com/rmsportal/xBrUaDROgtFBRRL.png",
+            children: `${require("../images/p1.PNG")}`,
           },
         },
       },
@@ -1284,8 +1281,7 @@ export const Feature51DataSource = {
             className: "content7-img",
             md: 10,
             xs: 24,
-            children:
-              "https://zos.alipayobjects.com/rmsportal/xBrUaDROgtFBRRL.png",
+            children: `${require("../images/assistant.png")}`,
           },
         },
       },
@@ -1341,8 +1337,7 @@ export const Feature51DataSource = {
             className: "content7-img",
             md: 10,
             xs: 24,
-            children:
-              "https://zos.alipayobjects.com/rmsportal/xBrUaDROgtFBRRL.png",
+            children: `${require("../images/dent.jpg")}`,
           },
         },
       },
@@ -1399,8 +1394,7 @@ export const Feature51DataSource = {
             className: "content7-img",
             md: 10,
             xs: 24,
-            children:
-              "https://zos.alipayobjects.com/rmsportal/xBrUaDROgtFBRRL.png",
+            children: `${require("../images/wezardrushLogo.png")}`,
           },
         },
       },
@@ -1492,7 +1486,7 @@ export const Feature50DataSource = {
             ),
             className: "content7-tag-name",
           },
-          icon: { children: "mobile" },
+          icon: { children: "laptop" },
         },
         content: {
           className: "content7-content",
@@ -1544,7 +1538,7 @@ export const Feature50DataSource = {
         name: "block1",
         tag: {
           className: "content7-tag",
-          icon: { children: "tablet" },
+          icon: { children: "laptop" },
           text: {
             className: "content7-tag-name",
             children: (
@@ -1726,6 +1720,72 @@ export const Content91DataSource = {
   block: {
     className: "timeline",
     children: [
+      {
+        name: "block100",
+        className: "block-wrapper",
+        playScale: 0.3,
+        children: {
+          imgWrapper: { className: "image-wrapper" },
+          textWrapper: { className: "text-wrapper" },
+          img: {
+            className: "block-img",
+            children:
+              "https://gw.alipayobjects.com/zos/rmsportal/SlFgHDtOTLzccvFrQHLg.png",
+          },
+          icon: {
+            className: "block-icon",
+            children:
+              "https://gw.alipayobjects.com/zos/rmsportal/QviGtUPvTFxdhsTUAacr.svg",
+          },
+          name: {
+            className: "block-name",
+            children: (
+              <span>
+                <p>Director of Public Relations</p>
+              </span>
+            ),
+          },
+          post: {
+            className: "block-post",
+            children: (
+              <span>
+                <p>
+                  <br />
+                </p>
+              </span>
+            ),
+          },
+          time: {
+            className: "block-time",
+            children: (
+              <span>
+                <p>2019</p>
+              </span>
+            ),
+          },
+          title: {
+            className: "block-title",
+            children: (
+              <span>
+                <p>XdHacks 2019 Hackathon</p>
+              </span>
+            ),
+          },
+          content: {
+            className: "block-content kdtqtphw8e-editor_css",
+            children: (
+              <span>
+                <p>
+                  Coordinated a team of 2 to raise $6K in sponsorship funding
+                  and find 6 community partners in 1 month. I oversaw the
+                  logistics of various portions of the event, managing a team of
+                  12.
+                </p>
+              </span>
+            ),
+          },
+        },
+      },
       {
         name: "block1",
         className: "block-wrapper",

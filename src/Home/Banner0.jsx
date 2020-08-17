@@ -25,7 +25,7 @@ class Banner extends React.PureComponent {
             dataSource.title.children.match(isImg) ? (
               <img
                 src={dataSource.title.children}
-                style={{ paddingRight: 40 }}
+                style={{ marginTop: 100, marginBottom: 50, marginRight: 100 }}
                 width="100%"
                 alt="img"
               />
