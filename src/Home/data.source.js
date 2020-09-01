@@ -1428,11 +1428,16 @@ export const Content10DataSource = {
           <span>
             <p>
               A goal of mine has always been to find a platform to share my
-              experiences as I grow as a developer and as a leader. Stay tuned
-              for my blog, quality content coming your way!&nbsp;
+              experiences as I grow as a developer and as a leader. Check out
+              this latest article I worked on!
             </p>
-            <Button style={{ margin: 15 }} disabled>
-              Under Construction
+            <Button
+              style={{ margin: 15 }}
+              href={
+                "https://medium.com/hootsuite-engineering/the-magic-of-consumer-driven-contract-tests-493145dee2f8"
+              }
+            >
+              Medium Article
             </Button>
           </span>
         </span>
