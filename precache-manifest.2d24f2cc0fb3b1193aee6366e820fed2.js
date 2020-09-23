@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "67538e707831ceab9083",
-    "url": "/kan-site/static/css/main.7fc17f54.chunk.css"
+    "revision": "1fc13c9ee2ba70ee1b15",
+    "url": "/kan-site/static/css/main.dbf1667b.chunk.css"
   },
   {
-    "revision": "67538e707831ceab9083",
-    "url": "/kan-site/static/js/main.67538e70.chunk.js"
+    "revision": "1fc13c9ee2ba70ee1b15",
+    "url": "/kan-site/static/js/main.1fc13c9e.chunk.js"
   },
   {
     "revision": "5688e60273b6b4d88cb7",
@@ -64,7 +64,7 @@ self.__precacheManifest = [
     "url": "/kan-site/static/media/optimized.9fecf707.gif"
   },
   {
-    "revision": "e8e71f54876ba7e34e43624dac74b622",
+    "revision": "0de75662f2f9084bcf7e7e2e5170294b",
     "url": "/kan-site/index.html"
   }
 ];
