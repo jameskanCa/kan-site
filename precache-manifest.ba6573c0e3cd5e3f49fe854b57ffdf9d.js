@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "1fc13c9ee2ba70ee1b15",
-    "url": "/kan-site/static/css/main.dbf1667b.chunk.css"
+    "revision": "4c1d11a13e8393ffced00f091c1ecfb7",
+    "url": "/kan-site/static/media/assistant.4c1d11a1.png"
   },
   {
-    "revision": "1fc13c9ee2ba70ee1b15",
-    "url": "/kan-site/static/js/main.1fc13c9e.chunk.js"
+    "revision": "ad12abb064c6dcbede18",
+    "url": "/kan-site/static/css/main.dbf1667b.chunk.css"
   },
   {
     "revision": "5688e60273b6b4d88cb7",
     "url": "/kan-site/static/js/runtime~main.5688e602.js"
   },
   {
-    "revision": "fd783bff06cfdfd2f75d",
-    "url": "/kan-site/static/css/2.26328c19.chunk.css"
+    "revision": "9fecf707de0be6d2eb0d00e4b351a288",
+    "url": "/kan-site/static/media/optimized.9fecf707.gif"
   },
   {
-    "revision": "fd783bff06cfdfd2f75d",
-    "url": "/kan-site/static/js/2.fd783bff.chunk.js"
+    "revision": "7cf9ae63a2aa3da68461",
+    "url": "/kan-site/static/js/2.7cf9ae63.chunk.js"
   },
   {
     "revision": "0695fff7f0eac9ec0831ef82877a65ef",
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/kan-site/static/media/flutter.3b87320b.png"
   },
   {
-    "revision": "4c1d11a13e8393ffced00f091c1ecfb7",
-    "url": "/kan-site/static/media/assistant.4c1d11a1.png"
+    "revision": "ad12abb064c6dcbede18",
+    "url": "/kan-site/static/js/main.ad12abb0.chunk.js"
   },
   {
     "revision": "f4eadbd33a991e7f4332cb10cd1ddc92",
@@ -60,11 +60,11 @@ self.__precacheManifest = [
     "url": "/kan-site/static/media/lumohacks.ffe990e3.jpg"
   },
   {
-    "revision": "9fecf707de0be6d2eb0d00e4b351a288",
-    "url": "/kan-site/static/media/optimized.9fecf707.gif"
+    "revision": "7cf9ae63a2aa3da68461",
+    "url": "/kan-site/static/css/2.2e157590.chunk.css"
   },
   {
-    "revision": "0de75662f2f9084bcf7e7e2e5170294b",
+    "revision": "c3c5ec50845db33d27056552e37d2c49",
     "url": "/kan-site/index.html"
   }
 ];
