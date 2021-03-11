@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/kan-site/static/media/assistant.4c1d11a1.png"
   },
   {
-    "revision": "20dbae0e26cb00eebb02",
+    "revision": "2bc842530794cd60d3ee",
     "url": "/kan-site/static/css/main.dbf1667b.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/kan-site/static/media/flutter.3b87320b.png"
   },
   {
-    "revision": "20dbae0e26cb00eebb02",
-    "url": "/kan-site/static/js/main.20dbae0e.chunk.js"
+    "revision": "2bc842530794cd60d3ee",
+    "url": "/kan-site/static/js/main.2bc84253.chunk.js"
   },
   {
     "revision": "f4eadbd33a991e7f4332cb10cd1ddc92",
@@ -64,7 +64,7 @@ self.__precacheManifest = [
     "url": "/kan-site/static/css/2.2e157590.chunk.css"
   },
   {
-    "revision": "6e30ab81caee68f39fcd2810acd85c01",
+    "revision": "7193690153d98980971c7e82952ed7ce",
     "url": "/kan-site/index.html"
   }
 ];
